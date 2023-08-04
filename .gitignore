@@ -1,0 +1,6 @@
+bloglist_backend/build
+bloglist_backend/node_modules
+bloglist_backend/.env
+
+bloglist_frontend/build
+bloglist_frontend/node_modules
